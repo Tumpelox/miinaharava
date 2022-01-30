@@ -1,4 +1,4 @@
-Pythonilla toimiva miinaharava joka on osana Oulun yliopiston Ohjelmoinnin alkeet -kurssia.
+Pythonilla toimiva miinaharava joka on osana Oulun yliopiston Ohjelmoinnin alkeet -kurssia. Pelissä käytetään pyglet kirjastoa ja apuna muokattua Mika Ojan luomaa haravasto -kirjastoa.
 
 Peliin pääsee valitsemalla vaikeustason.
 Pelin voi aloittaa uudestaan valitulla vaikeustasolla painamalla ylhäällä näkyvää naamaa. Naama myös kertoo että onko peli hävitty tai voitettu.
